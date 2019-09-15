@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9B3DB38C232EF11C008A9C04 /* Concentration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3DB38B232EF11C008A9C04 /* Concentration.swift */; };
+		9B3DB38E232EF1DD008A9C04 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3DB38D232EF1DD008A9C04 /* Card.swift */; };
 		9BA3C9132325881500F926CB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA3C9122325881500F926CB /* AppDelegate.swift */; };
 		9BA3C9152325881500F926CB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BA3C9142325881500F926CB /* ViewController.swift */; };
 		9BA3C9182325881500F926CB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BA3C9162325881500F926CB /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		9B3DB38B232EF11C008A9C04 /* Concentration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Concentration.swift; sourceTree = "<group>"; };
+		9B3DB38D232EF1DD008A9C04 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		9BA3C90F2325881500F926CB /* Concentrate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentrate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BA3C9122325881500F926CB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BA3C9142325881500F926CB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				9B3DB38B232EF11C008A9C04 /* Concentration.swift */,
+				9B3DB38D232EF1DD008A9C04 /* Card.swift */,
 				9BA3C9242325896F00F926CB /* New Group */,
 				9BA3C9142325881500F926CB /* ViewController.swift */,
 				9BA3C9162325881500F926CB /* Main.storyboard */,
@@ -148,6 +151,7 @@
 				9BA3C9152325881500F926CB /* ViewController.swift in Sources */,
 				9BA3C9132325881500F926CB /* AppDelegate.swift in Sources */,
 				9B3DB38C232EF11C008A9C04 /* Concentration.swift in Sources */,
+				9B3DB38E232EF1DD008A9C04 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

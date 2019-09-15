@@ -9,6 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    var game = Concentration(numberOfPairsOfCards: cardButtons.count / 2) //connection between the two files
+    
     var flipCount: Int = 0 {
         didSet {
             flipCountLabel.text = "Flips: \(flipCount)" //Every time flipCount changes this is activated

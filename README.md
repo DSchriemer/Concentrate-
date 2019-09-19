@@ -2,7 +2,7 @@
 
  **This app is a simple iOS game designed to test your memory and concentration**
  
-## How Can I play? 
+## How Can I Play? 
 
 **When the game starts you are given a screen with 12 face down cards, as seen below:**
 
